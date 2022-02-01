@@ -197,7 +197,7 @@ footer p {
     }
 }
 
-@media(max-width: 768px){
+@media(max-width: 800px){
     .bg_tribute{
         height: 800px;
     }
@@ -240,7 +240,7 @@ footer p {
     }
 }
 
-@media(max-width: 425px){
+@media(max-width: 700px){
     .tribute_name h1{
         font-size: 60px;
     }
@@ -272,7 +272,7 @@ footer p {
     }
 }
 
-@media (max-width: 375px){
+@media (max-width: 400px){
 
     div.tribute_lines{
         width: 300px;
@@ -286,7 +286,7 @@ footer p {
 @media (max-width: 320px){    
 
     div.tribute_lines{
-        width: 300px;
+        width: 270px;
     }
 }
 
